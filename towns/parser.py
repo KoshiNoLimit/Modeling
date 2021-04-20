@@ -1,3 +1,11 @@
+"""
+Парсер позволяет взять индексы городов и данные о них
+
+Для того, чтобы изменить регион, необходимо:
+    -изменить переменную region
+    -изменить переменную index_path
+"""
+
 import time
 import geckodriver_autoinstaller
 import requests
